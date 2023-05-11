@@ -8,8 +8,11 @@ The dataset used in this project is available in the file data.csv. It contains 
 This project requires the following Python packages:
 
 pandas
+
 numpy
+
 scikit-learn
+
 matplotlib
 
 # Conclusion
