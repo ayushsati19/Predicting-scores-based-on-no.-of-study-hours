@@ -12,5 +12,5 @@ numpy
 scikit-learn
 matplotlib
 
-Conclusion
+# Conclusion
 This is a simple project that demonstrates how simple linear regression can be used to predict scores based on the number of study hours. Feel free to explore the code and dataset to gain a better understanding of how the model works.
